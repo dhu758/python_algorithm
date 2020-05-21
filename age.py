@@ -7,4 +7,4 @@ if 20>age>=17:
 elif 27>age>=20:
     print(age,'살은 대학생입니다.')
 else:
-    print(age,'살은 학생이 아닙니다.')  
+    print(age,'살은 학생이 아닙니다.')   
