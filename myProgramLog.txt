@@ -1,0 +1,9 @@
+2020-05-27 15:59:49,930-DEBUG-Start of factorial(5)
+2020-05-27 15:59:49,931-DEBUG-i is 0, total is 0
+2020-05-27 15:59:49,931-DEBUG-i is 1, total is 0
+2020-05-27 15:59:49,931-DEBUG-i is 2, total is 0
+2020-05-27 15:59:49,931-DEBUG-i is 3, total is 0
+2020-05-27 15:59:49,931-DEBUG-i is 4, total is 0
+2020-05-27 15:59:49,931-DEBUG-i is 5, total is 0
+2020-05-27 15:59:49,931-DEBUG-End if factorial(5)
+2020-05-27 15:59:49,931-DEBUG-End of program
